@@ -3,6 +3,8 @@
 This repository contains my original Python submission for  
 **The Empathy Encryption Hackathon**, where I secured 🥇 1st Rank.
 
+![Certificate](certificate.jpg)
+
 ---
 
 ## Project Philosophy
